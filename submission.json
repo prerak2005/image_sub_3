@@ -1,0 +1,8 @@
+{
+  "prompt": "Soviet Constructivist propaganda poster style, 1920s Russia, Rodchenko and El Lissitzky visual grammar. A heroic bold worker silhouette strides powerfully downward along a steep geometric mountain slope. The slope is made of hard angular geometric shapes — sharp triangles and diagonal planes in flat red and black. The figure is mid-stride, leaning forward with momentum, descending toward the lowest point of the valley at the bottom of the composition. The path of descent is marked by bold diagonal lines or arrow shapes showing the stepwise journey down the slope — each step closer to the minimum at the valley floor. Color palette: ONLY flat red, black, and white. No gradients. No shading. No photographic texture. Hard edges only. Composition: aggressive diagonal — everything thrusts from upper left to lower right. Strong figure-ground contrast. Geometric shapes only. The eye is pulled forcefully downward toward the valley minimum. No text, no labels, no equations. Flat graphic style. The feeling: unstoppable directional force, purpose, inevitably reaching the lowest point. Negative prompt: no photorealism, no gradients, no soft edges, no serif fonts, no decorative elements, no curves, no naturalistic shading.",
+  "model": "DALL·E 3",
+  "concept": "gradient descent",
+  "tradition_name": "Soviet Constructivist Posters",
+  "tradition_period": "1920s–1930s",
+  "tradition_approach": "Flat red, black and white palette only, aggressive diagonal composition thrusting upper-left to lower-right, hard geometric edges, heroic worker silhouette in motion, zigzag path marking iterative steps of descent toward the minimum."
+}
